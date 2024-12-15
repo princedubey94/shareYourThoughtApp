@@ -1,0 +1,11 @@
+{
+  "name": "shareyourthoughtapp",
+  "version": "1.0.0",
+  "description": "here you can share your thought anonymously ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Prince Dubey",
+  "license": "ISC"
+}
